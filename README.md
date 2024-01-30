@@ -8,6 +8,7 @@ This is the site that holds the SVD visualization functions. See two major refer
 
 - Zhang, L. (2007) Functional Singular Value Decomposition and Multi-Resolution Anomaly Detection, PhD dissertation, UNC-CH. 
 
+## MATLAB
 A major function is
 
 svd3dplot
@@ -20,6 +21,8 @@ imagels is an inner function to show top-view image view of a matrix, that is as
 
 Please make sure MATLAB has svds function available. 
 
+## R
 We have an early version of R package. You can download it and just install it into your R system manually.
 
+## Python
 Update on Jan 30. We have uploaded a python function svd3dplot.py in the system, this is an alpha version that can automatically handle 3 components. We will design a more flexible version later. 

@@ -25,4 +25,4 @@ Please make sure MATLAB has svds function available.
 We have an early version of R package. You can download it and just install it into your R system manually.
 
 ## Python
-Update on Jan 30. We have uploaded a python function svd3dplot.py in the system, this is an alpha version that can automatically handle 3 components. We will design a more flexible version later. 
+Update on Jan 30. We have uploaded a python function svdvisual.py in the system, this is an alpha version that can automatically handle 3 components. We will design a more flexible version later. The main function is a similar svd3dplot function.
